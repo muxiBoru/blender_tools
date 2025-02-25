@@ -1,4 +1,4 @@
-ivy generator
+ivy generator v1.0.0
 
 通过几何节点创建的藤蔓生成器
 
